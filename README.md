@@ -10,4 +10,16 @@ Automação da criação e extração de relatórios no gerenciador de anúncios
  - Tableau
  
  ## DESCRIÇÃO DA AUTOMAÇÃO:
+ - O programa acessa o browser e acessa o facebook digitando a url;
+ - Em seguida faz login no usuário e senha onde a conta de anúncio está vinculada;
+ - Acessa o gerenciador de anúncio e a conta de anúncio que desejo extrair os dados;
+ - Vá para a parte de relatórios do gerenciador de anúncio;
+ - Clica em criar relatório e seleciona algumas métricas importantes que programei; 
+ - Escolhe o formato do arquivo que vai ser exportado com os dados; 
+ - Exporta o arquivo com os dados e salva alterando o nome na minha memória interna.
  
+ ## TRATAMENTO DOS DADOS:
+ - Toda a parte de tratamento dos dados foi feita através da ferramenta: Tableau.
+
+## Dashboard contendo os gráficos: 
+
