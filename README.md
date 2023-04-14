@@ -22,4 +22,5 @@ Automação da criação e extração de relatórios no gerenciador de anúncios
  - Toda a parte de tratamento dos dados foi feita através da ferramenta: Tableau.
 
 ## Dashboard contendo os gráficos: 
+![Captura de Tela 2023-04-11 às 10 27 31](https://github.com/paulovitor00/Automatizacao_Trafego/blob/ef6facce09a5ddec48f203a01e2ff58fe20f0850/Captura%20de%20Tela%202023-04-13%20a%CC%80s%2022.11.54.png)
 
